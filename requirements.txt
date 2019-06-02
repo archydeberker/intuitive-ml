@@ -1,4 +1,5 @@
 numpy
 ipywidgets
 nbinteract
-matplotlibjupyter-book
+matplotlib
+jupyter-book
